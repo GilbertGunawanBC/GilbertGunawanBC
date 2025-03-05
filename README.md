@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilbert Gunawan
+- 👋 Hi, I’m Gilbert Gunawan (ByteCode)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, HTML CSS JS
 - 💞️ I’m looking to collaborate on ...
