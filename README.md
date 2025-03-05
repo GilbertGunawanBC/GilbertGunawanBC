@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Gilbert Gunawan
+- 👋 Hi, I’m Gilbert Gunawan (a.k.a. ByteCode)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, HTML CSS JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ByteCode
-- ⚡ Fun fact: ...
 
 <!---
 GilbertGunawanBC/GilbertGunawanBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
