@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on website and game projects  
 - 🌱 I’m learning Python, HTML, CSS, and JavaScript  
 - 👯 I’m open to collaborating on web or game development projects  
