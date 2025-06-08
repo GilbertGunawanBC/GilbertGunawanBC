@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Gilbert Gunawan, A.K.A ByteCode. Based in Indonesia.
+
 - 🔭 I’m currently working on website and game projects  
 - 🌱 I’m learning Python, HTML, CSS, and JavaScript  
 - 👯 I’m open to collaborating on web or game development projects  
