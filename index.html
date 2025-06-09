@@ -428,31 +428,54 @@
     <section class="contact" id="contact">
       <h1 class="item">Contact <span>Me!</span></h1>
       <hr class="item" />
-      <form action="#">
+      <form action="https://formspree.io/f/xqabpbgn" method="POST">
         <div class="input-box item">
           <div class="input-field item">
-            <input type="text" placeholder="Full Name" required />
+            <input
+              type="text"
+              name="Full Name"
+              placeholder="Full Name"
+              required
+              autocomplete="off"
+            />
             <span class="focus"></span>
           </div>
           <div class="input-field item">
-            <input type="email" placeholder="Email Address" required />
+            <input
+              type="email"
+              name="Email"
+              placeholder="Email Address"
+              required
+              autocomplete="off"
+            />
             <span class="focus"></span>
           </div>
         </div>
         <div class="input-box item">
           <div class="input-field">
-            <input type="number" placeholder="Phone Number" required />
+            <input
+              type="number"
+              name="Phone"
+              placeholder="Phone Number"
+              required
+              autocomplete="off"
+            />
             <span class="focus"></span>
           </div>
           <div class="input-field item">
-            <input type="text" placeholder="Email Subject" required />
+            <input
+              type="text"
+              name="Subject"
+              placeholder="Email Subject"
+              required
+              autocomplete="off"
+            />
             <span class="focus"></span>
           </div>
         </div>
         <div class="textarea-field item">
           <textarea
-            name=""
-            id=""
+            name="Message"
             cols="30"
             rows="10"
             placeholder="Your Message"
@@ -460,6 +483,7 @@
           ></textarea>
           <span class="focus"></span>
         </div>
+
         <button type="submit" class="btn item">Submit</button>
       </form>
     </section>
